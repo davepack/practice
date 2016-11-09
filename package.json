@@ -1,0 +1,12 @@
+{
+  "name": "practice",
+  "description": "Environment for writing scripts for practice problems.",
+  "scripts": {
+    "sequence": "babel-node --presets react-native closestSequence2.js"
+  },
+  "author": "David Pack",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-react-native": "^1.9.0"
+  }
+}
